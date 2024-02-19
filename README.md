@@ -1,2 +1,2 @@
 # My-Repo1
-cout<<"i havr created my first repo";
+i have created my first repo
